@@ -6,6 +6,8 @@ Each trade day prior to market open IHA Consultants generates predcitive equity 
 
 Prior trade day TRI-SIGNAL predictive equity analytic data files can be downloaded at https://ihaconsultants.com/f1/401k_f1_login.php. <br/><br/> Login information as follows: <br/> &nbsp;&nbsp;&nbsp;<b>Username(email address):</b> 'equity_researcher' <br/>  &nbsp;&nbsp;&nbsp;<b>Password:</b> 'tri_signal_12_2020' <br/> &nbsp;&nbsp;&nbsp;<b>Select Report to Download:</b> '1' - TRI-SIGNAL: DEEP ANALYTICS DATA SET PRIOR DAY.  
 
+An Excel user interface macro file is available for download located in the files of the Predicitive Equity Analytics TRI-SIGNAL Machine Learning Project. The Excel macro file has vba code for quick start for data file retreieval, stock filtering and graphical output to the 'Graphs' tab of the Excel file. An original copy of the data is stored on the 'Original Data' tab and a working copy with filters applied is found in 'Sheet1' tab.
+
 <h2>TRI-SIGNAL Signals {1,2,3} Signal Descriptions</h2>
 
 Signal 1 and Signal 3 are used for reliable prediction with accuracy greater than 85% for future 1 to 3 trade-day stock price behavior. Signal 2 can be thought of as either representing the result of a well-executed marketing plan (temporary higher level of demand that abates in short order with no lasting correlation) or statistical noise (persistent but inconsistent correlation.)
