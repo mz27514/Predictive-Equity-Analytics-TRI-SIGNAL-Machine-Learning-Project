@@ -41,7 +41,7 @@ This site is maintained by <br/> <img src="https://github.com/mz27514/Predictive
 
 
 
-
+<br/>
 <b>MIT License</b>
 
 Copyright (c) 2020 IHA Consultants Inc.
