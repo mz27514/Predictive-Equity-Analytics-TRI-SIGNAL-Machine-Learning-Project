@@ -28,4 +28,4 @@ Users are free to tweak provided template predictive rules or develop customized
 
 We illustrate automated Optimal TRI-SIGNAL Buy/Sell Predictive Rules using Agilent Technologies (A) stock price series.
  
-
+https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project
