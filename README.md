@@ -36,6 +36,9 @@ We illustrate automated Optimal TRI-SIGNAL Buy/Sell Predictive Rules using Agile
 
 <img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/tri_signal_signals_123_description.png" />
 
+<b>Use TRI-SIGNAL Signals {1,2,3} on the Original_Data tab together with Scikit or TensorFlow to create deep learning predictie models.</b>
+<img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/signals_1_2_predictive.png" />
+
 <b>Contact Information</b><br/> 
 This site is maintained by <br/> <img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/iha_logo_email.png" />IHA Consultants Inc. Please contact us at https://ihaconsultants.com.
 
