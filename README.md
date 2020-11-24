@@ -2,11 +2,11 @@
 Equity price prediction machine learning models are hindered by presence of noise in data which degrades predictive accuracy as a function of noise level which varies over time. Noise in external data sets or contained in a data lake presents an additional time varying noise source. Practitioners can use TRI-SIGNAL predictive equity analytics Signals {1,2,3} 4,000+ data set to overcome the effects of noise in equity price series on machine learning models as starting data set to create predictive models with consistent high predictive power. Create customized predictive equity models by combing additional external data sets with TRI-SIGNAL Signals {1,2,3} for causality attribution modeling or to create complex deep learning machine learning models. 
 
 
-<h2>TRI-SIGNAL Signals {1,2,3}Signal Descriptions</h2>
-
 Each trade day prior to market open IHA Consultants generates predcitive equity analytic signals (1,2,3) for over 4,000 U.S. equities that are predictive for the current trade day available with subscription. IHA Consultants supplies the complete prior trade day TRI-SIGNAL predictive equity analytics data file free of charge (but with required agreement to release of liability) for use under the licensing terms of the Predictive Equity Analytics TRI-SIGNAL Machine Learning Project
 
-https://ihaconsultants.com/f1/401k_f1_login.php
+Prior trade day TRI-SIGNAL predictive equity analtic adat files can be downloaded at https://ihaconsultants.com/f1/401k_f1_login.php. Login information as follows: <br/> <h2>Username(email address):</h2> 'equity_researcher' <br/> <h2>Password:</h2> 'TRI-SIGNAL_2020' <nr/> <h2>Slect Report to Download:</h2> '3' - TRI-SIGNAL: DEEP ANALYTICS DATA SET PRIOR DAY.  
+
+<h2>TRI-SIGNAL Signals {1,2,3}Signal Descriptions</h2>
 
 Signal 1 and Signal 3 are used for reliable prediction with accuracy greater than 85% for future 1 to 3 trade-day stock price behavior. Signal 2 can be thought of as either representing the result of a well-executed marketing plan (temporary higher level of demand that abates in short order with no lasting correlation) or statistical noise (persistent but inconsistent correlation.)
 
