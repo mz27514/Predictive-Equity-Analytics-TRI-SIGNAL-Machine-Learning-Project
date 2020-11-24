@@ -3,6 +3,7 @@ Equity price prediction machine learning models are hindered by presence of nois
 
 
 TRI-SIGNAL Signals {1,2,3}Signal Descriptions
+
 Signal 1 and Signal 3 are used for reliable prediction with accuracy greater than 85% for future 1 to 3 trade-day stock price behavior. Signal 2 can be thought of as either representing the result of a well-executed marketing plan (temporary higher level of demand that abates in short order with no lasting correlation) or statistical noise (persistent but inconsistent correlation.)
 
 Signal 1 and Signal 3 are jointly predictive for stock selection and timing of increase. Signal 1 and Signal 3 are each independently predictive when used as sole predictor. Predictive accuracy is increased by using both Signal 1 and Signal 3 for predictive rule construction.
