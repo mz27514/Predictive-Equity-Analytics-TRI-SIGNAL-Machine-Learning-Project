@@ -20,7 +20,7 @@ Signal 3 is a stock price direction change signal that represents a probable cha
 
 Signal 3 greater than the 121 trade-day average or most recent signal 3 trend increasing and “near the average” signifies probable stock price increase in future 1 to 3 trade-days. Signal 3 less than the 121 trade-day average or most recent signal 3 trend decreasing and “near the average” signifies probable stock price decrease in future 1 to 3 trade-days.
 
-<h2>Predictive Rule Construction<h2>
+<h2>Predictive Rule Construction</h2>
 Using Excel, filtering of 4,000+ equities for Signal 1 and Signal 3 for joint predictive rule construction proceeds with selection of stocks with Signal 1 greater than or equal to 0.6 (all stocks with “stock event”) and Signal 3 greater than or equal to 0.97 (stocks with predicted future 1 to 3 trade-day price appreciation.) There is an automated routine that produces predictive rule application as a report as well in graphical form. 
 
 Users are free to tweak provided template predictive rules or develop customized predictive rules.
