@@ -4,7 +4,7 @@ Equity price prediction machine learning models are hindered by presence of nois
 
 Each trade day prior to market open IHA Consultants generates predcitive equity analytic signals (1,2,3) for over 4,000 U.S. equities that are predictive for the current trade day available with subscription. IHA Consultants supplies the complete prior trade day TRI-SIGNAL predictive equity analytics data file free of charge (but with required agreement to release of liability) for use under the licensing terms of the Predictive Equity Analytics TRI-SIGNAL Machine Learning Project
 
-Prior trade day TRI-SIGNAL predictive equity analtic adat files can be downloaded at https://ihaconsultants.com/f1/401k_f1_login.php. Login information as follows: <br/> <h2>Username(email address):</h2> 'equity_researcher' <br/> <h2>Password:</h2> 'TRI-SIGNAL_2020' <nr/> <h2>Slect Report to Download:</h2> '3' - TRI-SIGNAL: DEEP ANALYTICS DATA SET PRIOR DAY.  
+Prior trade day TRI-SIGNAL predictive equity analtic adat files can be downloaded at https://ihaconsultants.com/f1/401k_f1_login.php. Login information as follows: <br/> <b>Username(email address):<b> 'equity_researcher' <br/> <b>Password:<b> 'TRI-SIGNAL_2020' <br/> <b>Select Report to Download:<b> '3' - TRI-SIGNAL: DEEP ANALYTICS DATA SET PRIOR DAY.  
 
 <h2>TRI-SIGNAL Signals {1,2,3}Signal Descriptions</h2>
 
