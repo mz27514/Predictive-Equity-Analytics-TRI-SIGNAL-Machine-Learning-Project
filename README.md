@@ -40,6 +40,8 @@ We illustrate automated Optimal TRI-SIGNAL Buy/Sell Predictive Rules using Agile
 This site is maintained by <br/> <img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/iha_logo_email.png" />IHA Consultants Inc. Please contact us at https://ihaconsultants.com.
 
 
+
+
 <b>MIT License</b>
 
 Copyright (c) 2020 IHA Consultants Inc.
