@@ -10,7 +10,7 @@ A template Excel user interface macro file is available for download using the l
 
 
 <img src="https://ihaconsultants.com/f1/images/tri_ui.jpg" width="116" height="226" alt="tri_ui"  /> 	
-<h2 > Click to zoom in on Excel file interface</h2> 
+<b> Click to zoom in on Excel file interface</b> 
 
 
 <h2>TRI-SIGNAL Signals {1,2,3} Signal Descriptions</h2>
