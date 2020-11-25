@@ -13,7 +13,7 @@ A template Excel user interface macro file is available for download using the l
 <b> Click to zoom in on Excel file interface</b>  <br/> <br/>
 
 <img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/video_thumbnail_overview.png" width="326" height="226" alt="tri_ui"  />
-<b>Overview video can be viewed at: https://youtu.be/RbXF6K9eXLA </b> <br/>
+<b>Overview video can be viewed at: https://youtu.be/tn57USvFRd0 </b> <br/>
 
 <h2>TRI-SIGNAL Signals {1,2,3} Signal Descriptions</h2>
 
