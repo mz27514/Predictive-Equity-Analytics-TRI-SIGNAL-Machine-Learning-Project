@@ -9,7 +9,7 @@ Prior trade day TRI-SIGNAL Signal {1,2,3} predictive equity analytic data files 
 A template Excel user interface macro file is available for download using the link above. The Excel macro file has vba code for data file retrieval, stock filtering and graphical output to the 'Graphs' tab of the Excel file. An original copy of the data is stored on the 'Original Data' tab and a working copy with filters applied is found in 'Sheet1' tab.  Module_1 of the vba code is where you will find the TRI-SIGNAL filtering and graphing routines. The other modules contain standard portfolio theory vba code. 
 
 
-<img src="https://ihaconsultants.com/f1/images/tri_ui.jpg" width="116" height="226" alt="tri_ui"  /> 	
+<img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/tri_ui.jpg" width="116" height="226" alt="tri_ui"  /> 	
 <b> Click to zoom in on Excel file interface</b> 
 
 
