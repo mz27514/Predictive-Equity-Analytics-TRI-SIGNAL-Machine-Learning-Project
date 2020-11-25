@@ -8,6 +8,10 @@ Prior trade day TRI-SIGNAL Signal {1,2,3} predictive equity analytic data files 
 
 A template Excel user interface macro file is available for download using the link above. The Excel macro file has vba code for data file retrieval, stock filtering and graphical output to the 'Graphs' tab of the Excel file. An original copy of the data is stored on the 'Original Data' tab and a working copy with filters applied is found in 'Sheet1' tab.  Module_1 of the vba code is where you will find the TRI-SIGNAL filtering and graphing routines. The other modules contain standard portfolio theory vba code. 
 
+    <a href="https://ihaconsultants.com/f1/images/predictive_equity_analytics_theory_and_application.pdf" target=__blank> 
+      <i> >>  &nbsp; Whitepaper: TRI-SIGNAL - Predictive Equity Analytics (pdf)    </i> 
+    </a> 
+
 <h2>TRI-SIGNAL Signals {1,2,3} Signal Descriptions</h2>
 
 Signal 1 and Signal 3 are used for reliable prediction with accuracy greater than 85% for future 1 to 3 trade-day stock price behavior. Signal 2 can be thought of as either representing the result of a well-executed marketing plan (temporary higher level of demand that abates in short order with no lasting correlation) or statistical noise (persistent but inconsistent correlation.)
