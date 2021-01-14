@@ -1,3 +1,7 @@
+<b>Announcement:
+(NEW) TRI-SIGNAL: Predictive Equity Analytics v300 now with Dynamic Risk Premium & Dynamic Efficient Frontier
+To learn more visit https://ihaconsultants.com<b>
+
 # Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project
 Equity price prediction machine learning models are hindered by presence of noise in data which degrades predictive accuracy as a function of noise level which varies over time. Noise in external data sets or contained in a data lake presents an additional time varying noise source. Practitioners can use TRI-SIGNAL predictive equity analytics Signals {1,2,3} data set to overcome the effects of noise in equity price series on machine learning models as starting data set to create predictive equity models with consistent high predictive power with accuracy 85%+. Create customized predictive equity models by combing additional external data sets with IHA Consultant's TRI-SIGNAL Signals {1,2,3} for causality attribution modeling or create deep learning machine models. 
 
