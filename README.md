@@ -1,5 +1,5 @@
-<b>Announcement:
-(NEW) TRI-SIGNAL: Predictive Equity Analytics v300 now with Dynamic Risk Premium & Dynamic Efficient Frontier
+<b>Announcement:<br/>
+(NEW) TRI-SIGNAL: Predictive Equity Analytics v300 now with Dynamic Risk Premium & Dynamic Efficient Frontier<br/>
 To learn more visit https://ihaconsultants.com<b>
 
 # Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project
