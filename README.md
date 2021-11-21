@@ -1,11 +1,11 @@
 <b>Announcement:<br/>
-(NEW) TRI-SIGNAL: Predictive Equity Analytics v400 now with Dynamic Risk Premium & Dynamic Efficient Frontier<br/>
+(NEW) TRI-SIGNAL: Predictive Equity Analytics v400 features include 1.) ability to detect algorithmic trading for ETFS, mutual funds and stocks and 2.) the ability to predictively partition daily trend into deterministic and variance components.<br/>
 To learn more visit https://ihaconsultants.com<b>
 
 # Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project
 Equity price prediction machine learning models are hindered by presence of noise in data which degrades predictive accuracy as a function of noise level which varies over time. Noise in external data sets or contained in a data lake presents an additional time varying noise source. Practitioners can use TRI-SIGNAL predictive equity analytics Signals {1,2,3} data set to overcome the effects of noise in equity price series on machine learning models as starting data set to create predictive equity models with consistent high predictive power with accuracy 85%+. Create customized predictive equity models by combing additional external data sets with IHA Consultant's TRI-SIGNAL Signals {1,2,3} for causality attribution modeling or create deep learning machine models. 
 
-<b>TRI-SIGNAL Predictive Equity Analytics Paper avaialble at SSRN using the following link: http://ssrn.com/abstract=3703297 </b>
+<b>TRI-SIGNAL Predictive Equity Analytics Paper avaialble at SSRN using the following links: https://papers.ssrn.com/abstract_id=3875632 and http://ssrn.com/abstract=3703297 </b>
 
 Each trade day prior to market open, IHA Consultants generates predictive equity analytic signals{1,2,3} for over 4,000 U.S. equities that are predictive for the current trade day available with subscription. IHA Consultants supplies the complete prior trade day TRI-SIGNAL predictive equity analytics data file free of charge (but with required agreement to release of liability) for use under the licensing terms of the Predictive Equity Analytics TRI-SIGNAL Machine Learning Project and IHA Consultant's Release of Liability Agreement.
 
@@ -18,7 +18,7 @@ Using the installer a template Excel user interface macro file is available for 
 <b> Click to zoom in on Excel macro file interface</b>  <br/> <br/>
 
 <img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/video_thumbnail_overview.png" width="326" height="226" alt="tri_ui"  />
-<b>Overview video can be viewed at: https://youtu.be/tn57USvFRd0 </b> <br/>
+<b>Overview video can be viewed at: https://www.youtube.com/embed/ny_alY1kHKo. </b> <br/>
 
 <h2>TRI-SIGNAL Signals {1,2,3} Signal Descriptions</h2>
 
