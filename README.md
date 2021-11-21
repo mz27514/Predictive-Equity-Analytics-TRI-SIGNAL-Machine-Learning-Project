@@ -1,5 +1,5 @@
 <b>Announcement:<br/>
-(NEW) TRI-SIGNAL: Predictive Equity Analytics v300 now with Dynamic Risk Premium & Dynamic Efficient Frontier<br/>
+(NEW) TRI-SIGNAL: Predictive Equity Analytics v400 now with Dynamic Risk Premium & Dynamic Efficient Frontier<br/>
 To learn more visit https://ihaconsultants.com<b>
 
 # Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project
@@ -9,9 +9,9 @@ Equity price prediction machine learning models are hindered by presence of nois
 
 Each trade day prior to market open, IHA Consultants generates predictive equity analytic signals{1,2,3} for over 4,000 U.S. equities that are predictive for the current trade day available with subscription. IHA Consultants supplies the complete prior trade day TRI-SIGNAL predictive equity analytics data file free of charge (but with required agreement to release of liability) for use under the licensing terms of the Predictive Equity Analytics TRI-SIGNAL Machine Learning Project and IHA Consultant's Release of Liability Agreement.
 
-Prior trade day TRI-SIGNAL Signal {1,2,3} predictive equity analytic data files can be downloaded at https://ihaconsultants.com/f1/401k_f1_login.php. <br/><br/> Login information as follows: <br/> &nbsp;&nbsp;&nbsp;<b>Username(email address):</b> 'equity_researcher' <br/>  &nbsp;&nbsp;&nbsp;<b>Password:</b> 'tri_signal_12_2020' <br/> &nbsp;&nbsp;&nbsp;<b>Select Report to Download:</b> '1' - TRI-SIGNAL: DEEP ANALYTICS DATA SET PRIOR DAY<br/> &nbsp;&nbsp;&nbsp;<b>Select Report to Download: </b> '8' - TRI-SIGNAL - OPTIMAL BUY / SELL with DEEP ANALYTICS template Excel macro file.<br/><br/> TRI-SIGNAL Series (1,2,3) data files are generally available at 8:30 a.m. each trade day.
+NEW TRI-SIGNAL v400 Signal {1,2,3} predictive equity analytic data files can be downloaded by clicking here https://ihaconsultants.com/v400/tri_signal_installer.zip. <br/><br/> Sample report is updated daily prior to market open. Coming soon free abridged data set.<br/><br/> TRI-SIGNAL Series (1,2,3) data files are generally available at 8:30 a.m. each trade day.
 
-A template Excel user interface macro file is available for download using the link above. The Excel macro file has vba code for data file retrieval, stock filtering and graphical output to the 'Graphs' tab of the Excel file. An original copy of the data is stored on the 'Original Data' tab and a working copy with filters applied is found in 'Sheet1' tab.  Module_1 of the vba code is where you will find the TRI-SIGNAL filtering and graphing routines. The other modules contain standard portfolio theory vba code. 
+Using the installer a template Excel user interface macro file is available for download using the link above. The Excel macro file has vba code for data file retrieval, stock filtering and graphical output to the 'Graphs' tab of the Excel file. An original copy of the data is stored on the 'Original Data' tab and a working copy with filters applied is found in 'Sheet1' tab.  Module_1 of the vba code is where you will find the TRI-SIGNAL filtering and graphing routines. The other modules contain standard portfolio theory vba code. 
 
 
 <img src="https://github.com/mz27514/Predictive-Equity-Analytics-TRI-SIGNAL-Machine-Learning-Project/blob/main/tri_ui.jpg" width="116" height="226" alt="tri_ui"  /> 	
